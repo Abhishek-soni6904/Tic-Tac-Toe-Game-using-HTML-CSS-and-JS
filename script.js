@@ -2,7 +2,7 @@ const boxes = document.querySelectorAll(".box");
 const infoDisplay = document.getElementById("turnAndWinIndicator");
 const resetButton = document.getElementById("resetButton");
 const winLine = document.getElementById("winLine");
-const invalidMove = new Audio("ting.mp3")
+const invalidMove = new Audio("/assets/ting.mp3")
 
 let gameOver = false;
 let currentPlayer = "X";
