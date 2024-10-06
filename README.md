@@ -1,5 +1,4 @@
 # Tic-Tac-Toe-Game-using-HTML-CSS-and-JS
-# Tic Tac Toe Game
 
 This is a simple implementation of the classic **Tic Tac Toe** game using HTML, CSS, and JavaScript. The game allows two players to alternate between "X" and "O", and features win/draw detection, a reset option, and audio-visual feedback.
 
